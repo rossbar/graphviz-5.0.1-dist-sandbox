@@ -1,0 +1,2 @@
+?package(graphviz):needs="X11" section="Applications/Graphics" \
+  title="dotty" command="/usr/bin/dotty"
